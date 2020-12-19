@@ -12,7 +12,7 @@ return(
 <hr/>
 <h3>we love <u>  {props.country}</u> </h3>
 <hr/>
-<h4>Thanku!</h4>
+<h4>Thanku soo Much!</h4>
 </div>
 
 )
